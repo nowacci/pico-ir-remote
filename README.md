@@ -1,6 +1,7 @@
 # pico-remote-ir
 
-***
+
+
 
 ## Introduction
 This is an example project of using an infrared transmitter to create wireless communication with a Raspberry Pi Pico receiving via an IR diode.
